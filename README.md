@@ -18,3 +18,8 @@ Kurulum için sadece `setup.exe` dosyasını çalıştırmanız yeterli.
 
 Daha sonra klavye düzenlerinden `Türkçe Q - Gökhan` düzenini
 seçmeniz gerekmektedir.
+
+![image](https://user-images.githubusercontent.com/1487670/155972064-0b55f394-e36f-4448-88ba-f0827662da35.png)
+
+## Uyumluluk
+Windows 10 ve Windows 7'de test edilmiştir.
